@@ -10,7 +10,6 @@ The bot is pretty simple and easy to understand, indeed, the bot offer a very go
 <details><summary>Features</summary>
 <p>
 
-#### Changelogs
 
 - /framework => The Framework command provides you to learn everything you need about a framework.
 - /generate => The generate command provides you to generate a random source code in a specific language.
@@ -23,7 +22,6 @@ The bot is pretty simple and easy to understand, indeed, the bot offer a very go
 <details><summary>Changelogs</summary>
 <p>
 
-#### Changelogs
 
 - 04/07/2022 => Added the **fun** rubric with one command => `/ask` => This command will make the bot answer a question you asked it
 - This is the changelog beggin... yoohoo
