@@ -5,7 +5,7 @@ Code Bot is a super cool bot based for generating source code in a multitude of 
 Want to learn to code ? Or using a framework ? Or even using a library ? Code bot is the best way to do it.
 The bot is pretty simple and easy to understand, indeed, the bot offer a very good visual interface with embeds and buttons.
 
-[Add the bot](https://google.com)
+[Add the bot](https://discord.com/api/oauth2/authorize?client_id=991459244069109780&permissions=534723819584&scope=bot%20applications.commands)
 
 <details><summary>Features</summary>
 <p>
